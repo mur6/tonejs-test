@@ -15,7 +15,8 @@
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "react-router-dom": "^5.3.0",
-    "styled-components": "^5.3.1"
+    "styled-components": "^5.3.1",
+    "tone": "^14.7.77"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.0",
